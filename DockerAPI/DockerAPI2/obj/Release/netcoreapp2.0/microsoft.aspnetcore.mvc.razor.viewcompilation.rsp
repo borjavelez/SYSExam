@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DockerAPI2
+--content-root=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\Home\About.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\Home\Contact.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\Home\Index.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\Shared\Error.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\Shared\_Layout.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\_ViewImports.cshtml
+--file=C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\Views\_ViewStart.cshtml

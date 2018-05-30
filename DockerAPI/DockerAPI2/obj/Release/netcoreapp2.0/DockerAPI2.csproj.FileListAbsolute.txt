@@ -1,0 +1,11 @@
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\bin\Release\netcoreapp2.0\DockerAPI2.deps.json
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\bin\Release\netcoreapp2.0\DockerAPI2.runtimeconfig.json
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\bin\Release\netcoreapp2.0\DockerAPI2.runtimeconfig.dev.json
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\bin\Release\netcoreapp2.0\DockerAPI2.dll
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\bin\Release\netcoreapp2.0\DockerAPI2.pdb
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\obj\Release\netcoreapp2.0\DockerAPI2.csprojResolveAssemblyReference.cache
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\obj\Release\netcoreapp2.0\DockerAPI2.csproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\obj\Release\netcoreapp2.0\DockerAPI2.AssemblyInfoInputs.cache
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\obj\Release\netcoreapp2.0\DockerAPI2.AssemblyInfo.cs
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\obj\Release\netcoreapp2.0\DockerAPI2.dll
+C:\Users\Borja\source\repos\DockerAPI2\DockerAPI2\obj\Release\netcoreapp2.0\DockerAPI2.pdb

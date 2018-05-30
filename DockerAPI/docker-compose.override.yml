@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dockerapi2:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"

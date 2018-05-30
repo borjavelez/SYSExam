@@ -1,0 +1,11 @@
+services:
+  dockerapi2:
+    build:
+      context: C:\Users\Borja\Desktop\SYSExam\DockerAPI
+      dockerfile: DockerAPI2/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: dockerapi2
+    ports:
+    - 80/tcp
+version: '3.0'

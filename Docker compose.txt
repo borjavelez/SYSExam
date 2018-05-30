@@ -1,0 +1,20 @@
+When you run the above mentioned tutorial inside Visual Studio, Docker images and containers are created and started. They are tagged "dev" when you run in debug mode. To create release images tagged "latest", build the solution in release mode.
+Open a command prompt and go to the directory of the Visual Studio solution (this is the folder where "docker-compose.yml" is found).
+
+Run the following command to run the services in the background:
+docker-compose up -d
+
+Run the following command to see the images:
+docker-compose images
+
+Run the following command to see the containers and the port they are listening on outside the container (the docker-compose command automatically performed port redirection):
+docker-compose ps
+
+Open a browser and verify that the application runs as expected:
+api: http://localhost:<api-port>/api/values
+dockerlab: http://localhost:<dockerlab-port>/Home/About
+
+Stop the containers:
+docker-compose stop (stops the containers)
+docker-compose down (stops and removes the containers)
+docker-compose rm (removes stopped containers)

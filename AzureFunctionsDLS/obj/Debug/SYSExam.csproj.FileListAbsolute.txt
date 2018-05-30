@@ -8,3 +8,13 @@ C:\Users\Borja\Desktop\AzureFunctionsDLS\AzureFunctionsDLS\bin\Debug\AzureFuncti
 C:\Users\Borja\Desktop\AzureFunctionsDLS\AzureFunctionsDLS\obj\Debug\AzureFunctionsDLS.Properties.Resources.resources
 C:\Users\Borja\Desktop\AzureFunctionsDLS\AzureFunctionsDLS\obj\Debug\AzureFunctionsDLS.exe
 C:\Users\Borja\Desktop\AzureFunctionsDLS\AzureFunctionsDLS\obj\Debug\AzureFunctionsDLS.pdb
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\bin\Debug\AzureFunctionsDLS.exe.config
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\bin\Debug\AzureFunctionsDLS.exe
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\bin\Debug\AzureFunctionsDLS.pdb
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\SYSExam.csprojResolveAssemblyReference.cache
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\SYSExam.Form1.resources
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\AzureFunctionsDLS.Properties.Resources.resources
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\SYSExam.csproj.GenerateResource.cache
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\SYSExam.csproj.CoreCompileInputs.cache
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\AzureFunctionsDLS.exe
+C:\Users\Borja\Desktop\SYSExam\AzureFunctionsDLS\obj\Debug\AzureFunctionsDLS.pdb
